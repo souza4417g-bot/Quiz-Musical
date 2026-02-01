@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Versão 3 - Quiz de Música em Casal",
+  "description": "A high-stakes music trivia game with custom categories, difficult distractors, and a massive artist database.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
